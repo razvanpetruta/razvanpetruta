@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Petruta Razvan Dumitru</h1>
 <h3 align="center">As a computer science student, I possess a strong problem-solving ability and pay exceptional attention to details. My work ethic is robust and I pride myself on my creative approach to coding challenges. Additionally, I bring an empathic and friendly attitude to team collaborations, making me a valuable asset to any project.</h3>
 
-- 🌱 I’m currently learning computer science at **Babes Bolyai University** ([see more about my work](https://github.com/razvanpetruta/UniversityProjects))
+- 🌱 **Babes Bolyai University** work ([check link](https://github.com/razvanpetruta/UniversityProjects))
+
+- ⛺ Currently learning Java spring for developing web applications
 
 - 📫 How to reach me **razvanpetruta32@gmail.com**
 
