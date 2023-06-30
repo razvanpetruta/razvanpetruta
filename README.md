@@ -17,7 +17,7 @@
 
 ### Library Management - full stack web application
 - used Java Spring Boot for backend
-- used EJS Angular for frontend
+- used Angular for frontend
 - used PostgreSQL as a database
 - [more about it](https://github.com/razvanpetruta/UniversityProjects/blob/main/Year_2/Semester_4/Systems_For_Design_And_Implementation)
 
