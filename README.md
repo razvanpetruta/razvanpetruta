@@ -15,25 +15,29 @@
 - used Bootstrap framework to provide responsiveness and styles
 - [more about it](https://github.com/razvanpetruta/school_website)
 
-### Toy language
-- implemented basic programming concepts, but also the possibility of multithreading
-- used Java OOP concepts and Model View Controller Architecture
-- used JavaFX framework
-- [more about it](https://github.com/razvanpetruta/UniversityProjects/tree/main/Year_2/Semester_3/Advanced_Programming_Methods/ToyLanguageGUI)
+### Library Management - full stack web application
+- used Java Spring Boot for backend
+- used EJS Angular for frontend
+- used PostgreSQL as a database
+- [more about it](https://github.com/razvanpetruta/UniversityProjects/blob/main/Year_2/Semester_4/Systems_For_Design_And_Implementation)
 
-### Daily Journal - web application
+### Daily Journal - full-stack web application
 - used Node.js with Express framework for backend
 - used EJS templates and Bootstrap for frontend
 - used MongoDB as a database
 - used Passport.js for authentication
 - [more about it](https://github.com/razvanpetruta/DailyJournal)
 
+### Toy language
+- implemented basic programming concepts, but also the possibility of multithreading
+- used Java OOP concepts and Model View Controller Architecture
+- used JavaFX framework
+- [more about it](https://github.com/razvanpetruta/UniversityProjects/tree/main/Year_2/Semester_3/Advanced_Programming_Methods/ToyLanguageGUI)
+
 ### Idea app
 - used React
-- [more](https://github.com/razvanpetruta/idea_app_react)
+- [more about it](https://github.com/razvanpetruta/idea_app_react)
 
 ### Javascript projects
 - trying to master Javascript
-- [more](https://github.com/razvanpetruta/javascript_projects)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=razvanpetruta&show_icons=true&locale=en&layout=compact" alt="razvanpetruta" /></p>
+- [more about it](https://github.com/razvanpetruta/javascript_projects)
