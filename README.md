@@ -15,7 +15,7 @@
 - used Bootstrap framework to provide responsiveness and styles
 - [more about it](https://github.com/razvanpetruta/school_website)
 
-### Library Management - full stack web application
+### Library Management - full-stack web application
 - used Java Spring Boot for backend
 - used Angular for frontend
 - used PostgreSQL as a database
