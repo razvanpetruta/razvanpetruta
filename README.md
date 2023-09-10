@@ -3,7 +3,7 @@
 
 - 🌱 **Babes Bolyai University** work ([check link](https://github.com/razvanpetruta/UniversityProjects))
 
-- ⛺ Currently learning Java spring for developing web applications
+- ⛺ Currently working with DotNet Core and React
 
 - 📫 How to reach me **razvanpetruta32@gmail.com**
 
